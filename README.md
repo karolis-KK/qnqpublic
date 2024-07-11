@@ -1,6 +1,6 @@
 # QuantumQuoin QNQ
 
-Crypto project | Made with Tailwind CSS
+Crypto project | Made with Tailwind CSS and JavaScript
 
 Lmk for src
 
